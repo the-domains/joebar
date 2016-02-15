@@ -1,40 +1,40 @@
-name: JoeBar
 favicon: null
-layout_spectrum: 0.7137486
-typography_spectrum: 0.8372717
+name: JoeBar
+opengraph:
+  image: null
+  type: null
+  appId: null
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
-cta:
-  domain: null
-  bucket: null
-  version: null
+purpose: []
+color:
+  saturation: 1
+  brandStrength: 0.03813101
+  lightness: 0
+  brandColors:
+    - '#BEBDB4'
+    - '#E0E0C6'
+    - '#270516'
+    - '#645D54'
+    - '#771628'
+  rhythmicContrast: 1
+typography_spectrum: 0.8372717
+layout_spectrum: 0.7137486
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-color:
-  brandColors:
-    - '#010101'
-    - '#ffffff'
-    - '#383b3a'
-    - '#decec1'
-    - '#9c6c60'
-  brandStrength: 0
-  lightness: 0
-  saturation: 1
-  rhythmicContrast: 1
-purpose: []
+cta:
+  bucket: null
+  version: null
+  domain: null
