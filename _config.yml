@@ -1,0 +1,14 @@
+layout_spectrum: 0.7556391
+color:
+  saturation: 0.9489796
+  brandStrength: 0.9196864
+  lightness: 0.83942
+  rhythmicContrast: 0.7728249
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+typography_spectrum: 0.3861439
+name: JoeBar
