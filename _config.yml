@@ -1,14 +1,3 @@
-color:
-  saturation: 0.2701396
-  brandStrength: 0.9196864
-  rhythmicContrast: 1
-  brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-  lightness: 0.2024704
 collections:
   - index:
       path: /
@@ -21,6 +10,17 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-layout_spectrum: 0.7556391
-typography_spectrum: 0.3861439
+typography_spectrum: 0.8372717
+color:
+  saturation: 0.001611154
+  brandStrength: 0.9196864
+  lightness: 0.0005370569
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  rhythmicContrast: 0.8512352
+layout_spectrum: 0.7137486
 name: JoeBar
